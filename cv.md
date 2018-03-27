@@ -10,7 +10,7 @@ title: CV
 
 ### Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> I am interested in learning about the factors that underlie vulnerability to psychiatric illnesses. 
 
 ### Education
 
@@ -19,8 +19,7 @@ title: CV
 
 ### Technical
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+- Intermediate: MATLAB, Python
 
 ### Employment
 
@@ -44,13 +43,12 @@ title: CV
 
 ### Publications
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+
+- Chowdhury TG, Chen YW, Aoki C. (2015) “Using the activity-based anorexia rodent model to study the neurobiological basis of anorexia nervosa.” Journal of Visualized Experiments: JoVE. (104).
+- Chowdhury TG, Ríos MB, Chan TE, Cassataro DS, Barbarich-Marsteller NC, Aoki C. (2014) “Activity-based anorexia during adolescence disrupts normal development of the ventral hippocampus CA1 pyramidal cells.” Hippocampus. 24(12):1421-1429.
+- Chowdhury TG, Barbarich-Marsteller NC, Chan TE, Aoki C. (2013) “Activity-based anorexia has differential effects on apical dendritic branching in dorsal and ventral hippocampal CA1.” Brain Structure and Function. 219(6), 1935-1945.
+- Chowdhury TG, Wable GS, Sabaliauskas NA, Aoki C. (2013) “Adolescent female C57BL/6 mice with activity-based anorexia exhibit weak hippocampal inhibitory input.” Neuroscience. 241:250-67.
+- Chowdhury TG, Jimenez JC, Bomar JM, Cruz-Martin A, Cantle JP, Portera-Cailliau C. (2010) “Fate of cajal-retzius neurons in the postnatal mouse neocortex.” Front Neuroanat. 4:10.
 
 ### Selected presentations
 
