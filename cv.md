@@ -59,18 +59,11 @@ title: CV
 
 ### Memberships and committees
 
-- 2017-current: Officer; OHSU Postdoctoral Association.
-- 2016-2017: Co-Vice Chair of Communications; Women in Bio - Pittsburgh.
+- 2017-      Officer; OHSU Postdoctoral Association.
+- 2016-2017  Co-Vice Chair of Communications; Women in Bio - Pittsburgh.
 
 ### Awards and supporting information
 
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
 
 ### References
 
