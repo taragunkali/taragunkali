@@ -4,11 +4,8 @@ title: CV
 ---
 
 ## Anew Guy
-- http://yourwebsite.com
-- 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+##- http://yourwebsite.com
+##- your.email@address.com
 
 ### Personal summary
 
@@ -16,9 +13,8 @@ title: CV
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- Ph.D.    Neuroscience, New York University, New York, NY
+- B.S.     Major: Neuroscience, Minor: Mathematics, University of California, Los Angeles, CA
 
 ### Technical
 
