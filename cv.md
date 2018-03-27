@@ -3,9 +3,10 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
-##- http://yourwebsite.com
-##- your.email@address.com
+## Tara Chowdhury
+
+- Portland, OR
+- gunkali [at] gmail [dot] com
 
 ### Personal summary
 
